@@ -1,5 +1,7 @@
 # Travel Planner AI: Agentic Architecture
 
+![Travel Planner Demo](Travel%20Planner%20Demo.mp4)
+
 This is an autonomous, multi-agent travel intelligence system that moves beyond standard LLM outputs. By leveraging CrewAI and Groq-powered Llama 3 models, the application orchestrates a sequence of specialized AI agents to perform real-time research, curate local experiences, and construct logic-driven travel blueprints.
 
 ## The Agentic Engine
